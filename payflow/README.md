@@ -2,4 +2,5 @@
 
 ## Projeto final NLW6 Flutter
 
-<img src=”https://i.imgur.com/AJd558l.gif”>
+![Animação](https://user-images.githubusercontent.com/54000596/123530704-d7afd380-d6d3-11eb-96f8-0fccaa4ef4f9.gif)
+
